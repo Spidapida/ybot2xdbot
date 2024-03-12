@@ -1,2 +1,3 @@
 # ybot2xdbot
-Set of Python scripts to convert exported .ybot macros to replay files xdbot can read.
+Python scripts that can convert text-converted yBot macros to popular macros.
+Currently only supports .xd files for xdBot.

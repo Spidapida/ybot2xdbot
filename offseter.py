@@ -1,3 +1,5 @@
+# !!! FOR YBOT MACROS ONLY !!! 
+
 import sys
 
 def offsetter(input_file, celery, output_file):
@@ -27,3 +29,5 @@ if __name__ == "__main__":
         output_file = sys.argv[3]
         offsetter(input_file, celery, output_file)
         print(f"Saved to: {output_file}")
+
+# !!! I REPEAT, THIS IS ONLY FOR YBOT MACROS ONLY !!!
